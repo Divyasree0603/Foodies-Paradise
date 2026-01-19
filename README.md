@@ -1,0 +1,1 @@
+Foodies Paradise Website – Responsive restaurant website built using HTML, CSS, and Bootstrap 5 featuring a hero section, menu gallery, reservation form, and contact map integration.Provides a user-friendly interface for browsing dishes, booking tables, and exploring restaurant details.
